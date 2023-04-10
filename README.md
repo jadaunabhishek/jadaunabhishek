@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CampusSpace](https://github.com/jadaunabhishek/CampusSpace)
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Firebase** and **iOS Development**
 
 - 💬 Ask me about **Android, Java**
 
