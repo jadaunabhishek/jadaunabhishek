@@ -12,10 +12,8 @@
 - 💬 Ask me about **Android, Java**
 
 - 📫 How to reach me **ajadaun883@gmail.com**
-- As a dedicated life-long learner, I am excited to start my career as a software developer and to internalize and implement all that I can absorb in this complex field. Currently I am entitled with 
-•4 star C++ coder at HackerRank
-•3 star Java and C coder at HackerRank
-•2 star Python coder at HackerRank
+- Currently I am entitled with 4 star C++, 3 star Java and C & 2 star Python coder at HackerRank
+- 📄 Know about my experiences (Resume) [![RESUME](https://img.shields.io/badge/RESUME-%231877F2.svg?logo=R&logoColor=yellow)](https://drive.google.com/file/d/1r8li_UQxc4hBIFQK5UX86AUQq6nZ9t42/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
