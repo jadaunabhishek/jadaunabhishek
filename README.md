@@ -1,19 +1,19 @@
 [![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/16320_Android_12_Blog_Header_opt_31x.gif)](https://https://github.com/jadaunabhishek)
 <h1 align="center">Hi 👋, I'm Abhishek Jadaun</h1>
-<h3 align="center">A passionate Android & iOS developer</h3>
+<h3 align="center">A passionate Android, iOS & MERN developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadaunabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="jadaunabhishek" /> </p>
 
-- 🔭 I’m currently working on [CampusSpace](https://github.com/jadaunabhishek/CampusSpace)
+- 🔭 I’m currently working on [dermShield]
 
-- 🌱 I’m currently learning **Firebase** and **iOS Development**
+- 🌱 I’m currently learning **REACT.js** and **NODE.js**
 
-- 💬 Ask me about **Android, Java**
+- 💬 Ask me about **Android, iOS and FullStack**
 
 - 📫 How to reach me **ajadaun883@gmail.com**
 - Currently I am entitled with 4 star C++, 3 star Java and C & 2 star Python coder at HackerRank
-- 📄 Know about my experiences (Resume) [![RESUME](https://img.shields.io/badge/RESUME-%231877F2.svg?logo=R&logoColor=yellow)](https://drive.google.com/file/d/1r8li_UQxc4hBIFQK5UX86AUQq6nZ9t42/view?usp=sharing)
+- 📄 Know about my experiences (Resume) [![RESUME](https://img.shields.io/badge/RESUME-%231877F2.svg?logo=R&logoColor=yellow)]([https://drive.google.com/file/d/1r8li_UQxc4hBIFQK5UX86AUQq6nZ9t42/view?usp=sharing](https://drive.google.com/file/d/1FH9LdgQ6nceNI8j9PsajpIYL5ZArGsjm/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
