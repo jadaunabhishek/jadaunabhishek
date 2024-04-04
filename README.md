@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadaunabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="jadaunabhishek" /> </p>
 
-- 🔭 I’m currently working on **dermShield**
+- 🔭 I’m currently working on **dermScan**
 
 - 🌱 I’m currently learning **Node.js and React.js**
 
